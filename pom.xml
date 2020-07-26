@@ -48,8 +48,10 @@
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <scope>runtime</scope>
         </dependency>
+
 
         <!-- tools -->
         <dependency>
@@ -62,7 +64,6 @@
     </dependencies>
 
     <modules>
-<!--        <module>upgrade-challenge-dao</module>-->
         <module>upgrade-challenge-api</module>
     </modules>
 
