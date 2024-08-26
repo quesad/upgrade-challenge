@@ -12,7 +12,7 @@
     <artifactId>upgrade-challenge-api</artifactId>
 
     <properties>
-        <springfox-swagger.version>2.9.2</springfox-swagger.version>
+        <springfox-swagger.version>2.10.0</springfox-swagger.version>
     </properties>
 
     <dependencies>
